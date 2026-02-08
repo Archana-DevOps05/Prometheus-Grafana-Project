@@ -85,7 +85,8 @@ http://<EC2-PUBLIC-IP>:3000
 
 ---
 
-!(docker-node-app.png)
+<img width="1366" height="768" alt="docker-node-app" src="https://github.com/user-attachments/assets/9e840e65-f2af-444c-9232-57dbf0f72534" />
+
 
 ## 📊 Step 2: Setup Node Exporter
 
@@ -101,7 +102,8 @@ Verify metrics:
 http://<EC2-PUBLIC-IP>:9100/metrics
 ```
 
-!(node-exporter.png)
+<img width="1366" height="768" alt="node-exporter" src="https://github.com/user-attachments/assets/22da4b71-3dd8-4140-b02c-3528ea8fd00a" />
+
 
 ---
 
