@@ -198,19 +198,3 @@ node_memory_MemAvailable_bytes
 
 ---
 
-## ✅ Final Outcome
-
-* Successfully deployed a Dockerized Node.js application
-* Implemented monitoring using Prometheus and Node Exporter
-* Visualized metrics using Grafana dashboards
-* Gained hands-on experience with real DevOps monitoring tools
-
----
-
-## 🎯 Interview Explanation
-
-> I containerized a Node.js application using Docker, configured Prometheus to scrape system metrics from Node Exporter, and visualized those metrics using Grafana dashboards. This project demonstrates end-to-end DevOps monitoring and deployment skills.
-
----
-
-⭐ This project reflects practical DevOps experience with Docker and monitoring tools.
