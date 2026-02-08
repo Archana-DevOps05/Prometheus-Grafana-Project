@@ -85,6 +85,8 @@ http://<EC2-PUBLIC-IP>:3000
 
 ---
 
+!(docker-node-app.png)
+
 ## 📊 Step 2: Setup Node Exporter
 
 Node Exporter is used to collect system-level metrics such as CPU, memory, disk, and network usage.
@@ -98,6 +100,8 @@ Verify metrics:
 ```
 http://<EC2-PUBLIC-IP>:9100/metrics
 ```
+
+!(node-exporter.png)
 
 ---
 
