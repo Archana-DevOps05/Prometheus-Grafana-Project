@@ -166,6 +166,13 @@ Password: admin
 ---
 
 ## 📊 Step 5: Grafana Dashboard
+Grafana dashboards are imported from the official Grafana community dashboards.
+
+Steps:
+1. Go to https://grafana.com/grafana/dashboards
+2. Search for "Node Exporter"
+3. Select "Node Exporter Full"
+4. Copy the Dashboard ID
 
 * Added **Prometheus** as a data source
 * Imported **Node Exporter Full Dashboard**
