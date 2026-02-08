@@ -190,11 +190,4 @@ This dashboard displays:
 <img width="1366" height="768" alt="grafana-dashboard" src="https://github.com/user-attachments/assets/ad93f782-c641-407b-80dd-d47d4abd5256" />
 
 
-### Memory Available
-
-```promql
-node_memory_MemAvailable_bytes
-```
-
----
 
