@@ -36,11 +36,14 @@ User Browser
    |
    |--> Grafana :3001
             |
+            |  (Query metrics)
             v
         Prometheus :9090
             |
+            |  (Scrape metrics)
             v
       Node Exporter :9100
+
 ```
 
 ---
