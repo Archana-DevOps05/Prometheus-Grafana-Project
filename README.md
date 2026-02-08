@@ -140,6 +140,7 @@ Access Prometheus UI:
 ```
 http://<EC2-PUBLIC-IP>:9090
 ```
+<img width="1366" height="768" alt="prometheus-metrics" src="https://github.com/user-attachments/assets/ad962f71-fa97-47d7-95bf-07c4b2c9af01" />
 
 ---
 
@@ -186,6 +187,8 @@ This dashboard displays:
 ```promql
 100 - (avg by(instance)(rate(node_cpu_seconds_total{mode="idle"}[5m])) * 100)
 ```
+<img width="1366" height="768" alt="grafana-dashboard" src="https://github.com/user-attachments/assets/ad93f782-c641-407b-80dd-d47d4abd5256" />
+
 
 ### Memory Available
 
